@@ -5,7 +5,7 @@
 1p, 2p, 5p, 10p, 20p, 50p, £1 (100p) and £2 (200p).<br>
 It is possible to make £2 in the following way:<br>
 1×£1 + 1×50p + 2×20p + 1×5p + 1×2p + 3×1p<br>
-How many different ways can £3 be made using any number of coins?</p>
+How many different ways can £2 be made using any number of coins?</p>
 
 <h2>Problem 2 - Most Points on a Line</h2>
 <p>Given a two dimensional graph with points on it, find a line which passes the most number of points</p>
